@@ -1,6 +1,5 @@
 ### Hi there 👋🏽
-I like to use numerical simulations 👨🏽‍💻👾 along with data analysis techniques 🤖🧠 to model and understand physical phenomena 🔭
-Also, I like to grow coffee 🌱☕️.
+I like to use numerical simulations 👨🏽‍💻🤖 along with data analysis techniques 🧠📊 to model and understand phenomena in nature 🌱🌎.
 <!--
 **leonelardilap/leonelardilap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,4 @@
-### Hi there 👋🏽
+### 👋🏽 Hi there
 I like to use machine learning 🧠🤖 along with numerical simulations 👨🏽‍💻👾 techniques to model and understand natural phenomena.
 <!--
 **leonelardilap/leonelardilap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

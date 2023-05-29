@@ -1,10 +1,10 @@
-### Hi there ![image](https://github.com/leonelardilap/leonelardilap/assets/6833352/fc10fe16-666a-445f-a118-db6942dd11df)
+### Hi there 👋
 
 <!--
 **leonelardilap/leonelardilap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 👋 Hi there
+-  Hi there
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
